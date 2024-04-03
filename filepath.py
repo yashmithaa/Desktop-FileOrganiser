@@ -6,7 +6,7 @@ psd = f"C:\Users\Yashmitha\Downloads\psd_proj"
 ai = f"C:\\Users\\Yashmitha\\Downloads\\ai_proj"
 trash = f"C:\\Users\\Yashmitha\\Downloads\\trash"
 
-#not created yet , maybe put pesu resources inside pdf folder
-#so remember to make changes here
+#not created yet , maybe put pesu resources inside doc folder
+
 pesu = f"C:\\Users\\Yashmitha\\Downloads\\doc\\pesu_resources"
 font = f"C:\\Users\\Yashmitha\\Downloads\\font"

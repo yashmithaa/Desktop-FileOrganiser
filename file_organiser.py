@@ -4,8 +4,7 @@ from shutil import move
 from filepath import *
 import logging
 
-# make for fonts, also seprate for psd files
-# make one for pesu phy chem etc, del folder based on name
+
 
 #from "filepath" file all local file paths are imported here
 source_dir = downloads
